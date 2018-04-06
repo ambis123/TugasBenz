@@ -27,3 +27,5 @@ public class TugasBenz1 {
             System.out.println("Atribut : "+Atribut);
            
 }
+    
+}
