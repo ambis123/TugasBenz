@@ -26,5 +26,6 @@ public class TugasBenzAksi {
               + "Hotel Bintang 5= Harga: Mahal, Fasilitas: Sangat Mewah,"
               + "Total Lantai: 10, Warna Bangunan: Merah, Tempat Parkir: "
               + "Sangat Luas";
+      Benny.cetakInfo();
 }
 }
