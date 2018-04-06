@@ -10,5 +10,7 @@ package tugasbenz;
  * @author Muhammad Rizaldy
  */
 public class TugasBenzAksi {
-    
+    public static void main(String[] args) { 
+        TugasBenz1 Abdi = new TugasBenz1(); 
+}
 }
